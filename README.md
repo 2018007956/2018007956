@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hey 👋, This is Chaea Kim
-[![Gmail Badge](https://img.shields.io/badge/-chaea11s0@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chaea11s0@gmail.com)](mailto:chaea11s0@gmail.com) <p align='left'> I'm majoring in computer software engineering at Hanyang University.
+[![Gmail Badge](https://img.shields.io/badge/-chaea11s0@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chaea11s0@gmail.com)](mailto:chaea11s0@gmail.com) <p align='left'> Hi
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2018007956)](https://github.com/2018007956/github-readme-stats)
