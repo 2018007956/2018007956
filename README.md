@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Hey 👋, This is Chaea Kim
+[![Gmail Badge](https://img.shields.io/badge/-chaea11s0@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chaea11s0@gmail.com)](mailto:chaea11s0@gmail.com) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/2018007956/)](https://github.com/2018007956/) <p align='left'>Hanyang University Student
+</p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2018007956)](https://github.com/2018007956/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2018007956)](https://github.com/2018007956/github-readme-stats)
