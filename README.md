@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 <p align='left'> Hi </p>
 -->
 
+잔디를 열심히 심자✨
 
 [![Gmail Badge](https://img.shields.io/badge/-chaea11s0@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chaea11s0@gmail.com)](mailto:chaea11s0@gmail.com) 
 
