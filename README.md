@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 [![Gmail Badge](https://img.shields.io/badge/-chaea11s0@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chaea11s0@gmail.com)](mailto:chaea11s0@gmail.com) 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2018007956%2Fhit-counter&count_bg=%23C947B3&title_bg=%23270909&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2018007956%2Fhit-counter&count_bg=%23CE37C0&title_bg=%23242020&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<div align="center">
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2018007956%2Fhit-counter&count_bg=%23D43DC6&title_bg=%23242020&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=2018007956)](https://github.com/2018007956/github-readme-activity-graph)
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2018007956&layout=compact)](https://github.com/2018007956/github-readme-stats)
 
