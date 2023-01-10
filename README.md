@@ -20,8 +20,10 @@ Here are some ideas to get you started:
 
 [![Gmail Badge](https://img.shields.io/badge/-chaea11s0@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chaea11s0@gmail.com)](mailto:chaea11s0@gmail.com) 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align-center>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2018007956%2Fhit-counter&count_bg=%23C947B3&title_bg=%23270909&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/2018007956/github-readme-stats)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=2018007956)](https://github.com/2018007956/github-readme-activity-graph)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23C947B3&title_bg=%23270909&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2018007956&layout=compact)](https://github.com/2018007956/github-readme-stats)
+
