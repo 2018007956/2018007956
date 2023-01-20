@@ -32,8 +32,6 @@ Fascinated with Artificial Intelligence, Computer Vision, Natural Language Proce
 뭐든 긍정적으로!  
 
 
-행복하자💖
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2018007956&layout=compact)](https://github.com/2018007956/github-readme-stats)
 
