@@ -26,13 +26,6 @@ Fascinated with Artificial Intelligence, Computer Vision, Natural Language Proce
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
   
 
-
-실패를 사랑합니다  
-도전을 즐깁니다  
-뭐든 긍정적으로!  
-
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2018007956&layout=compact)](https://github.com/2018007956/github-readme-stats)
 
 </div>
