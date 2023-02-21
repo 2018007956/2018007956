@@ -26,6 +26,7 @@ Fascinated with Artificial Intelligence, Computer Vision, Natural Language Proce
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
   
 
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2018007956&layout=compact)](https://github.com/2018007956/github-readme-stats)
 
 </div>
